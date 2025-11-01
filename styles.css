@@ -9,7 +9,7 @@ p:first-of-type{
 }
 
 p:nth-of-type(2){
-	color:black;
+	color:initial;
 }
 
 p:last-of-type{
