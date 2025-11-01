@@ -12,7 +12,7 @@ p:nth-of-type(2){
 	color:initial;
 }
 
-p:last-of-type{
+p:nth-of-type(3){
 	color:red;
 }
 
