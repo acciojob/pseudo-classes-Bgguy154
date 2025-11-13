@@ -2,7 +2,7 @@
     background-color: rgb(135, 206, 235);
 }
 
-p:first-of-type {
+p:first-child {
     color: white;
     background-color: black;
 }
@@ -11,7 +11,7 @@ p:nth-of-type(2) {
     color: initial; /* This keeps it as the default color */
 }
 
-p:nth-of-type(3) {
+p:last-of-type {
     color: red;
 }
 
